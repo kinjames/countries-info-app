@@ -1,8 +1,8 @@
 # Frontend Mentor - Manage landing page
 
-![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the REST Countries API with color theme switcher coding challenge](./images/preview.jpg)
 
-This is a solution to the [Manage landing page](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/manage-landing-page-R-0Lx_RXzf). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/manage-landing-page-R-0Lx_RXzf). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
